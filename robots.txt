@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Allow: .js
+Allow: .css
+Host: https://torear797.github.io/Medici-Solitaire/
+Sitemap: https://torear797.github.io/Medici-Solitaire/sitemap.xml
