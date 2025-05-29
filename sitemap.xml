@@ -8,10 +8,10 @@
     >
     <url>
         <loc>https://torear797.github.io/Medici-Solitaire/</loc>
-        <lastmod>2024-04-18</lastmod>
+        <lastmod>2025-05-29</lastmod>
         <priority>1.0</priority>
         <xhtml:link
-        rel="alternate"
+        rel="canonical"
         hreflang="ru"
         href="https://torear797.github.io/Medici-Solitaire/ru/"
         />
@@ -21,7 +21,7 @@
         href="https://torear797.github.io/Medici-Solitaire/ru/index.html"
         />
         <xhtml:link
-        rel="alternate"
+        rel="canonical"
         hreflang="en"
         href="https://torear797.github.io/Medici-Solitaire/"
         />
